@@ -9,10 +9,10 @@
 - [ ] hello.html
 - [ ] style.css
 
-**Flask**
+**Django**
 - [ ] basic tpc/ip & http request
-- [ ] why flask?
-- [ ] install flask
+- [ ] why django?
+- [ ] install django
 - [ ] hello server
 - [ ] router
 - [ ] template 
